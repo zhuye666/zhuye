@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/apply/apply",
+    "pages/duanxin/duanxin",
+    "pages/message/message",
+    "pages/my/my",
+    "pages/myself/myself",
+    "pages/sehzhi/sehzhi",
+    "pages/welcome/welcome"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarBackgroundColor": "#ffffff"
+  },
+  "style": "v2",
+  "componentFramework": "glass-easel",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

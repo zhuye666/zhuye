@@ -1,0 +1,32 @@
+<!--pages/apply/apply.wxml-->
+<!-- 搜索栏 -->
+<view class="Search">
+  <view class="w90">
+    <text>应用</text>
+    <view>
+      <image src="../../imgs/search.png" mode=""/>
+      <input type="text" placeholder="搜索应用 消息 新闻"/>
+    </view>
+    <image src="../../imgs/扫码.png"/>
+    <image src="../../imgs/消息-置灰.png"/>
+  </view>
+</view>
+<!-- 办事 -->
+<view class="things">
+  <view class="left">
+    <image src="../../imgs/appgirl.png" mode="aspectFit"/>
+    <image src="../../imgs/bgright.svg" mode="aspectFit"/>
+    <view class="midtitle">
+      <view>待办事项</view>
+      <view>我收藏的应用</view>
+    </view>
+  </view>
+  <view class="right">
+    <image src="../../imgs/appboy.png" mode="aspectFit"/>
+    <image src="../../imgs/bgleft.svg" mode="aspectFit"/>
+    <view class="midtitle">
+      <view>办事指南</view>
+      <view>办事指南汇总</view>
+    </view>
+  </view>
+</view>
