@@ -18,3 +18,18 @@
   }
   
   .mid{
+    text-align: center;
+}
+.phone{
+  font-size: 60rpx;
+}
+.zg{
+  font-weight: 300;
+}
+.dlu{
+  font-size: 45rpx;
+  color: wheat;
+  background-color: #2596f0;
+  border-radius: 25px;
+  margin-top: 80rpx;
+  display: flex;
