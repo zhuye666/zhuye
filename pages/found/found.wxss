@@ -27,4 +27,18 @@
   .Search .w90>view>image{
     width: 45rpx;
     height: 35rpx;
+  }.Search .w90>view>input{
+    width: 190px;
+    height: 20px;
+    font-size: 18rpx;
+    padding-left:10rpx;
+    border: none; 
   }
+  .Search .w90>image{
+    width: 50rpx;
+    height: 50rpx;
+    margin-left:35rpx;
+  }
+  .Search .w90>text{
+    font-size: 33rpx;
+    font-weight: 900;
