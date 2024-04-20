@@ -28,3 +28,13 @@
     <view>学校新闻</view>
     <view>综合信息</view>
     <view>学术动态</view>
+</view>
+</view>
+<!-- 通知栏 -->
+<view class="notice">
+  <view class="new flexbox">
+  <view class="text">
+    <view>
+      关于加强新生入学后校园安全管理规范的通知
+    </view>
+    <view>
