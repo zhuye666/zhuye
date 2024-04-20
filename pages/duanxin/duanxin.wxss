@@ -43,3 +43,27 @@
 }
 
 .qiehuan{
+    margin-top: 10%;
+    color: #299ffd;
+    font-size: 35rpx;
+  font-weight: 600;
+  }
+  
+  .other{
+    margin-top: 45%;
+    font-size: 34rpx;
+    font-weight: 200;
+    margin-bottom: 20rpx;
+  }
+  
+  .chose{
+    margin-left: 15rpx; 
+     margin-right: 15rpx;
+    font-size: 25rpx;
+    display: flex;
+  }
+  
+  .aa{
+    
+    color: #299ffd;
+  }

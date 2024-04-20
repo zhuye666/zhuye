@@ -8,7 +8,8 @@
     "pages/my/my",
     "pages/myself/myself",
     "pages/sehzhi/sehzhi",
-    "pages/welcome/welcome"
+    "pages/welcome/welcome",
+    "pages/found/found"
   ],
   "window": {
     "navigationBarTextStyle": "black",
