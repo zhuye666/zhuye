@@ -41,4 +41,18 @@
   }
   .Search .w90>text{
     font-size: 33rpx;
-    font-weight: 900;
+    font-weight: 900; margin-right: 20rpx;
+}
+/* 头部图片 */
+.topimg{
+  position: relative;
+  text-align: center;
+  margin-top: 30rpx;
+}
+.topimg>image{
+  width: 90%;
+  height: 250rpx;
+  border-radius: 20rpx;
+}
+.topimg .toptitle{
+  position: absolute;
