@@ -86,3 +86,18 @@
 }
 .new .options{
   font-size: 28rpx;
+  font-weight: 600;
+}
+.new .options>view{
+  margin-left: 30rpx;
+}
+.new .options>view:first-child{
+  margin-left: 0rpx;
+  margin-top: -20rpx;
+  font-size: 40rpx;
+  border-bottom: #b3f2c7 solid 10rpx;
+}
+/* 通知栏 */
+.notice{
+  width: 90%;
+  height: auto;
