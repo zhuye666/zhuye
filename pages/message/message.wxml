@@ -1,2 +1,20 @@
 <!--pages/message/message.wxml-->
-<text>pages/message/message.wxml</text>
+<!-- 搜索栏 -->
+<view class="Search">
+  <view class="w90">
+    <text>消息</text>
+    <view>
+      <image src="../../imgs/search.png" mode=""/>
+      <input type="text" placeholder="搜索应用 消息 新闻"/>
+    </view>
+    <image src="../../imgs/扫码.png"/>
+    <image src="../../imgs/消息-置灰.png"/>
+  </view>
+</view>
+<!-- 导航列表 -->
+<view class="barlist">
+  <view bind:tap="change">
+    <view class="yellow">
+      <image src="../../imgs/messageimgs/1.png"></image>
+    </view>
+    <view>代办</view>
