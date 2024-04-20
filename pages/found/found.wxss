@@ -8,3 +8,13 @@
     align-items: center; 
   }
   .Search{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 70rpx;
+    box-shadow: 2px 2px 2px 1px rgba(139, 139, 139, 0.2);
+  }
+  .Search .w90>view{
+    width: 300rpx;
+    height: 50rpx;
+    display: flex;
