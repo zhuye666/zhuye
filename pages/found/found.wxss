@@ -71,3 +71,18 @@
   margin-bottom: 20rpx;
 }
 .topimg .toptitle>view:last-child{
+    margin-top: 10rpx;
+}
+
+.flexbox{
+  display: flex;
+}
+
+/* 通知公告 */
+.new{
+  width: 90%;
+  margin: auto;
+  margin-top: 50rpx;
+}
+.new .options{
+  font-size: 28rpx;
