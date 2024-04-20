@@ -68,5 +68,17 @@
   background-color: #00dc6c;
   }
   .bottom>view>image{
+    width: 80rpx;
+    height: 80rpx;
+    text-align: center;
+    margin-top: 10rpx;
+    margin-left: 15rpx;
+  }
+  .bottom2{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20%;
+  }
       
 
