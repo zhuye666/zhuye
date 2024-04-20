@@ -37,4 +37,13 @@
     <view>
       关于加强新生入学后校园安全管理规范的通知
     </view>
+    <view>校园新闻网
+    </view>
+  </view>
+    <image src="../../imgs/newfeel.png" mode="aspectFit"/>
+  </view>
+  <view class="new flexbox">
+  <view class="text">
     <view>
+      关于加强新生入学后校园安全管理条例实行的通知
+    </view>
