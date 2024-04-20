@@ -38,3 +38,13 @@
   .Search .w90>image{
     width: 50rpx;
     height: 50rpx;
+    margin-left:35rpx;
+}
+.Search .w90>text{
+  font-size: 33rpx;
+  font-weight: 900;
+  margin-right: 20rpx;
+}
+/* 导航栏 */
+.barlist{
+  width: 90%;
