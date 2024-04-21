@@ -118,3 +118,33 @@
     </view>
     <view class="apps">
       <view>
+        <image src="../../imgs/danger.svg" mode="aspectFit" />
+      </view>
+      <view class="apptitle">学校预警</view>
+      <view class="apptext">查看学校预警信息</view>
+      <view><image src="../../imgs/eyes.svg" /> 200+</view>
+      <view>
+        <image src="../../imgs/add.svg" />
+      </view>
+    </view>
+  </view>
+
+  <view class="inform">
+  <view>
+    <view>通知公告</view>
+    <view>通知公告</view>
+    <view>综合信息</view>
+    <view>学术动态</view>
+  </view>
+  <view>
+  <view>
+    <view>
+      <view>关于加强新生入学后校园安全管理规范的通知</view>
+      <view>校园新闻网</view>
+    </view>
+    <view class="r1">
+      <image src="../../imgs/newOne.png" mode=""/>
+    </view>
+  </view>
+  <view>
+    <view>
