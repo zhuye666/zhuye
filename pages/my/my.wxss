@@ -298,3 +298,66 @@
   display: flex;
   justify-content: center;
   margin-top: 15rpx;
+}
+.app .apps>view:last-child>image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.inform{
+  width: 90%;
+  margin: auto;
+  height: 500rpx;
+  margin-top: 20rpx;
+}
+.inform>view:first-child{
+  margin-bottom: 10rpx;
+}
+.inform>view:first-child>view{
+  display: inline-block;
+  margin-right: 30rpx;
+  font-size: 25rpx;
+}
+.inform>view:first-child>view:nth-child(1){
+  font-size: 30rpx;
+  font-weight: 900;
+  border-bottom: 5rpx solid #afebc7;
+}
+.inform>view:nth-child(2){
+  margin-top: 20rpx;
+}
+.inform>view:nth-child(2)>view{
+  margin-bottom: 20rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.inform>view:nth-child(2)>view>view:first-child{
+  width: 70%;
+  line-height: 45rpx;
+}
+.inform>view:nth-child(2)>view>view:first-child>view:first-child{
+  font-size: 28rpx;
+}
+.inform>view:nth-child(2)>view>view:first-child>view:nth-child(2){
+  font-size: 25rpx;
+  color: #9f9f9f;
+}
+.inform>view:nth-child(2)>view>view:nth-child(2){
+  width: 130rpx;
+  height: 130rpx;
+  
+  border-radius: 20rpx;
+}
+.inform>view:nth-child(2)>view>view:nth-child(2)>image{
+  width: 100%;
+  height: 100%;
+}
+
+.r1{
+  background-image: linear-gradient(to bottom,#b7fdff,#fbfbfb);
+}
+.r2{
+  background-image: linear-gradient(to bottom,#86b63e,#cadbb0);
+}
+.r3{
+  background-image: linear-gradient(to bottom,#b4fdff,#caf2f4);
+}
