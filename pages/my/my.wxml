@@ -93,3 +93,28 @@
       <view>
         <image src="../../imgs/add.svg" />
       </view>
+    </view>
+    <view class="apps">
+      <view>
+        <image src="../../imgs/books.svg" mode="aspectFit" />
+      </view>
+      <view class="apptitle">图书借阅</view>
+      <view class="apptext">查看图书借阅记录</view>
+      <view><image src="../../imgs/eyes.svg" /> 100+</view>
+      <view>
+        <image src="../../imgs/add.svg" />
+      </view>
+    </view>
+    <view class="apps">
+      <view>
+        <image src="../../imgs/club.svg" mode="aspectFit" />
+      </view>
+      <view class="apptitle">网上查询</view>
+      <view class="apptext">自助网上缴费</view>
+      <view><image src="../../imgs/eyes.svg" /> 150+</view>
+      <view>
+        <image src="../../imgs/add.svg" />
+      </view>
+    </view>
+    <view class="apps">
+      <view>
